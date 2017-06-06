@@ -1,0 +1,114 @@
+/*Navigation*/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.header {
+	background-color: HoneyDew;
+}
+
+.name {
+	text-align: left;
+}
+
+h1 {
+	margin: 0;
+	font-family: "Rubik Mono One", sans-serif;
+    font-size: 25px;
+	color: FireBrick;
+	margin: 0;
+}
+
+li {
+	position: right;
+	color: #666666;
+	display: inline-block;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-weight: 100;
+	letter-spacing: 2px;
+	margin: 2px;
+	text-transform: uppercase;
+	padding: 20px 0px;
+	margin-left: 60px;
+	margin-right: 60px;
+}
+
+.btn {
+	background-color: #1c1c1c;
+	color: #fff;
+	font-size: 18px;
+	padding: 8px 30px;
+	text-decoration: none;
+	display: inline-block;
+}
+
+a.btn:hover {
+	background: #696969;
+	color: #000;
+}
+
+body {
+	background-color: #FFF;
+	margin:0;
+	padding: 0;
+}
+
+/*Food*/
+.main {
+	font-size: 60px;
+	text-align: center;
+	color: Black;
+	font-family: 'Playfair Display SC', serif;
+	font-weight: 600;
+	line-height: 100px;
+}
+
+h3 {
+	color: #000;
+	font-family: 'Lobster Two', cursive;
+	font-size: 40px;
+	font-weight: 200;
+	text-align: center;
+}
+
+p {
+	color: #333;
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+}
+
+.tastytreats {
+	background: #EEEFF1;
+	box-sizing: border-box;
+	width: 90%;
+	margin: 20px auto;
+	padding: 20px 0px;
+	text-align: center;
+}
+
+.TreatType {
+	display: inline-block;
+	margin: 0px 2% 80px 2%;
+	text-align: center;
+	width: 45%;
+}
+
+.TreatType img {
+	width: 100%;
+}
+
+.footer {
+	background-color: HoneyDew;
+	text-align: center;
+    clear: both;
+    position: relative;
+    z-index: 10;
+    height: 3em;
+    margin-top: -3em;
+	margin-left: auto;
+	margin-right: auto;
+
+}
